@@ -1,4 +1,4 @@
-﻿double tempo, distancia, velocidade = 340.29, horasExtras;
+﻿double tempo, distancia, velocidade = 340.29;
 
 Console.Clear();
 Console.WriteLine("---Raio e Trovão---\n");
